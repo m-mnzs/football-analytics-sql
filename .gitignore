@@ -1,0 +1,9 @@
+# Banco de Dados Local (Não subimos arquivos binários .db pro Git)
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
