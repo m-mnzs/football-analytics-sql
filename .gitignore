@@ -1,4 +1,4 @@
-# Banco de Dados Local (Não subimos arquivos binários .db pro Git)
+# Banco de Dados Local 
 *.db
 *.sqlite3
 
